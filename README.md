@@ -1,4 +1,4 @@
-![Alt text](relative/path/to/img.jpg?raw=true "portada")
+![Screenshot](portada.png)
 
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="ProyectosMIT" />
@@ -48,7 +48,7 @@
 
 ## :dart: About ##
 
-Traqueo del puntero para mover los ojos del proyecto, trabajo para el curso de Fullstack.
+Traqueo del puntero para mover los ojos del proyecto, trabajo para el curso de Fullstack. (<a href="https://fukudamiyasato.github.io/MITEye" target="_blank">Link</a>)
 
 ## :sparkles: Features ##
 
