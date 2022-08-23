@@ -44,7 +44,7 @@ No necesita instalación especial, solo abrir el archivo index.html en un navega
 
 ## :rocket: Technologies ##
 
-The following tools were used in this project:
+Se usaron las siguientes herramientas en el proyecto:
 
 - [HTML]
 - [CSS]
@@ -68,7 +68,7 @@ $ git clone https://github.com/fukudamiyasato/MITEye
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/fukudamiyasato" target="_blank">Fukuda Miyasato</a>
+Hecho con :heart: por <a href="https://github.com/fukudamiyasato" target="_blank">Fukuda Miyasato</a>
 
 &#xa0;
 
