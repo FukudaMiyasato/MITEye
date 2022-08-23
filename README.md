@@ -27,7 +27,7 @@
 
 ## :dart: About ##
 
-Traqueo del puntero para mover los ojos del proyecto, trabajo para el curso de Fullstack. (<a href="https://fukudamiyasato.github.io/MITEye" target="_blank">Link</a>)
+Web que usa javascript para traquear la posición del puntero y por medio de css mueve los ojos del diseño, trabajo para el curso de Fullstack. (<a href="https://fukudamiyasato.github.io/MITEye" target="_blank">Link</a>)
 
 ## :minidisc: How to run ##
 
@@ -35,8 +35,8 @@ No necesita instalación especial, solo abrir el archivo index.html en un navega
 
 ## :spiral_calendar: Roadmap of future improvements ##
 
-:black_circle: Colisión entre pacmens\
-:black_circle: Cambio de escalas para los pacmens
+:black_circle: Cambiar los diseños de la cara\
+:black_circle: Colocar una botonera para hacer cambios entre diferentes caras
 
 ## :sparkles: Features ##
 
@@ -72,4 +72,4 @@ Made with :heart: by <a href="https://github.com/fukudamiyasato" target="_blank"
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">Regresar</a>
