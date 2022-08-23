@@ -5,43 +5,22 @@
 
   &#xa0;
 
-  <!-- <a href="https://proyectosmit.netlify.app">Demo</a> -->
 </div>
 
-<!--<h1 align="center">Eyes</h1>-->
 
 <p align="center">
-  <!-- <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8"> -->
-
-  <!-- <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8"> -->
-
-  <!-- <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8"> -->
-
-  <!-- <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8"> -->
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/proyectosmit?color=56BEB8" /> -->
 </p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  ProyectosMIT 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#minidisc-How-to-run">How to Run</a> &#xa0; | &#xa0; 
+  <a href="#spiral_calendar-Roadmap-of-future-improvements">Roadmap</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/fukudamiyasato" target="_blank">Author</a>
 </p>
 
 <br>
@@ -49,6 +28,15 @@
 ## :dart: About ##
 
 Traqueo del puntero para mover los ojos del proyecto, trabajo para el curso de Fullstack. (<a href="https://fukudamiyasato.github.io/MITEye" target="_blank">Link</a>)
+
+## :minidisc: How to run ##
+
+No necesita instalación especial, solo abrir el archivo index.html en un navegador web. Para editar tener instalado node.
+
+## :spiral_calendar: Roadmap of future improvements ##
+
+:black_circle: Colisión entre pacmens\
+:black_circle: Cambio de escalas para los pacmens
 
 ## :sparkles: Features ##
 
